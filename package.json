@@ -1,0 +1,15 @@
+{
+  "name": "practicapaulaclase17-3ravez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paula",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.2.5",
+    "nodemon": "^2.0.7"
+  }
+}
